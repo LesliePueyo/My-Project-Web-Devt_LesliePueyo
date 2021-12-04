@@ -1,0 +1,33 @@
+.main-header {
+background: url(../img/ITALIAN\ TABLE.jpg);
+min-height: 400px;
+background-position: center;
+background-size: cover;
+color: white;
+}
+
+.active-link {
+color: purple;
+font-weight: bold;
+}
+
+
+.showcase-container {
+padding-top: 100px;
+}
+
+
+
+
+.page-footer{
+  background: url(../img/steak2.jpg);
+  background-size: cover;
+  min-height: 180px;
+  background-position: center;
+  border-top: purple solid 5px;
+  border-bottom: purple solid 5px;
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+
